@@ -1,4 +1,4 @@
-![Games](games_01.jpg)
+![Games](games_01.jpeg)
 
 ## Description :key:
 We work for the online store Ice, which sells video games all over the world. User and expert reviews, genres, platforms (e.g. Xbox or PlayStation), and historical data on game sales are available from open sources. 
