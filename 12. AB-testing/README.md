@@ -1,4 +1,4 @@
-![ab-logo](A_B-Testing-Ultimate-Glide.jpg)
+![ab-logo](A_B-Testing-Ultimate-Guide.jpg)
 
 ## Description :key:
 As an analyst at a big online store, we working with the marketing department to compile a list of hypotheses that may help boost revenue. We need to prioritize these hypotheses, launch an A/B test, and analyze the results.
