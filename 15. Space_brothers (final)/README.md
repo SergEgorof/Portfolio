@@ -1,4 +1,4 @@
-![Photo](sb_01.jpg)
+![Photo](sb_001.jpg)
 # Space Brothers (main)
 ## Description :key:
 In this project, we are working as an "Space Brothers" mobile game analysts. We are provided with data from our app - all information about cohort of users who started using the app between May 4 and May 10 inclusive.
