@@ -1,4 +1,4 @@
-![Logo](catering.jpeg)
+![Logo](cater.jpg)
 
 ## Description :key:
 In this project we analyze the catering market in Moscow based on open source data and investigate the question - will be successful and popular for a long time cafe, where clients will be served by robot waiters. Based on the analysis, we make a presentation to investors with recommendations.
