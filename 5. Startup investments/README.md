@@ -1,4 +1,4 @@
-![Logo](investments.jpg)
+![Logo](startup.jpg)
 
 ## Description :key:
 In this project we work with the database which contains information about the startup ecosystem: organizations, individuals, company news, funding rounds, acquisitions, and IPOs. There are 7 tables that can be joined using unique IDs (schema is below). 
