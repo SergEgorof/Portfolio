@@ -1,4 +1,4 @@
-![Loan](procrastinator_logo.jpg)
+![Loan](procras.jpg)
 
 ## Description :key:
 In this project, we work as marketing analysts for Procrastinate Pro+ entertainment application. Despite the huge investment in advertising, the business has suffered losses over the last few months. The data that we have in hand are marketing expenses, server logs from May 1 to October 27, 2019, and orders for this period. 
