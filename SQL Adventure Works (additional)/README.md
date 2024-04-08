@@ -1,4 +1,4 @@
-![aw](aw.jpg)
+![aw](SW_cycle.webp)
 
 ## Description :key:
 The Adventure Works database is a Microsoft product sample for an online transaction processing (OLTP) database. It supports a fictitious, multinational manufacturing company called Adventure Works Cycles. 
