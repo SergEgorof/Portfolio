@@ -1,4 +1,4 @@
-![NPS](nps_logo.jpg)
+![NPS](nps.jpg)
 
 ## Description :key:
 In this project, we study the results of a customer survey of a large telecom company that provides services across the CIS. A classic question was asked: «How likely are you to recommend our services to a friend or an acquaintance?».
