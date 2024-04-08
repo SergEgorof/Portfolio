@@ -1,4 +1,4 @@
-![Logo](yandex_realty_logo.jpg)
+![Logo](real_estate.jpeg)
 
 ## Description :key:
 In this project we have the data from Yandex.Realty provided for us. A real estate agency has an archive of sales ads for realty in St. Petersburg, Russia, and the surrounding areas collected over the past few years. 
