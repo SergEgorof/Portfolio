@@ -1,4 +1,4 @@
-![Loan](loan.jpg)
+![Loan](credit-score.jpg)
 
 ## Description :key:
 Our customer - the bank loan division. We want to figure out whether specified customers' characteristic affects the repaying of a loan on time. The data we work with is customers’ creditworthiness from the bank. The result of the research will be taken in the credit scoring model - a special system that evaluates the ability of a potential borrower to repay the loan.
