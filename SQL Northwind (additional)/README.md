@@ -1,4 +1,4 @@
-![NW](northwind.jpg)
+![NW](north.jpg)
 
 ## Description :key:
 The Northwind database is a sample database that was originally created by Microsoft and used as the basis for their tutorials in a variety of database products for decades. The database contains the sales data for a fictitious company called "Northwind Traders", which imports and exports specialty foods from around the world.
