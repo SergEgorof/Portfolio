@@ -1,4 +1,4 @@
-![Logo](kp_logo.jpeg)
+![Logo](films.jpg)
 
 ## Description :key:
 In this project we have the data from Kinopoisk platform and the Department's of Culture web portal provided for us. We identify main trends in film industry in general and in the Russian segment particularly. Also, we pay attention to the films with state support and answer the question whether they're interesting to a wide audience.
