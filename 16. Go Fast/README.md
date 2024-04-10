@@ -1,8 +1,9 @@
 ![YM-logo](samokat.jpg)
 
 ## Description :key:
-In this project we were working as data analysts of Yandex Music platform. In terms of project we had to compare users' preferences in two megapolices - Moscow and St. Petersburg. Data was provided by the platform and it contained information about users and tracks they listened on Monday, Wednesday and Friday from 8:00 am. to 10:00 pm.
-
+A preliminary analysis of tariff usage on a sample of scooter service customers was carried out,
+customer behavior when using the services was analyzed. Pre-processing
+data, their analysis. Statistical hypotheses were tested on the basis of available data.
 
 ## Tasks :ballot_box_with_check:
 The main goal of the project was to test three hypotheses:
