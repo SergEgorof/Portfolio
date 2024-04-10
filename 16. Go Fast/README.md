@@ -6,16 +6,12 @@ customer behavior when using the services was analyzed. Pre-processing
 data, their analysis. Statistical hypotheses were tested on the basis of available data.
 
 ## Tasks :ballot_box_with_check:
-The main goal of the project was to test three hypotheses:
-
-1. User activity depends on the day of the week. Moreover, in Moscow and St. Petersburg it also differs.
-2. On Monday mornings, certain genres prevail in Moscow, while others prevail in St. Petersburg. The same goes for Friday evenings, depending on the city.
-3. People in Moscow and St. Petersburg prefer different genres: pop music is more popular in Moskow, in St. Petersburg - russian rap.
+Test the hypotheses of a scooter rental service to help grow the business.
 
 
 ## Scope of activities :bulb:
-Advertising platforms, Internet services, Internet shops, Digital-agencies / Marketing / PR / SEO, Startups, Tech-company, Business services [b2b]
-
+data processing, histogram, boxplot, statistical test,
+Student's criterion
 
 ## Used Libraries :mortar_board:
 Pandas, Fuzzywuzzy, Seaborn, Matplotlib
