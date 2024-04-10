@@ -14,7 +14,7 @@ data processing, histogram, boxplot, statistical test,
 Student's criterion
 
 ## Used Libraries :mortar_board:
-Pandas, Fuzzywuzzy, Seaborn, Matplotlib
+Pandas, Numpy, Scipy, Matplotlib
 
 
 ## Tags :label:
