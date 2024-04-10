@@ -1,21 +1,27 @@
-![Go_Fast](volun.jpeg)
+![YM-logo](yandex_music_logo.png)
 
 ## Description :key:
-Our customer is a charitable online platform - [ProCharity](https://procharity.ru/). ProCharity is an opportunity for professionals to help non-profit organizations with issues that require specialized knowledge and expertise. Intellectual volunteers donate their time and professional skills to the fund, allowing them to solve problems that are difficult to handle with the resources of regular staff. The platform allows NGOs to find helpers, volunteers to bring value with their knowledge, skills and experience, and partner companies to increase employee loyalty and incorporate charity into their processes.
+In this project we were working as data analysts of Yandex Music platform. In terms of project we had to compare users' preferences in two megapolices - Moscow and St. Petersburg. Data was provided by the platform and it contained information about users and tracks they listened on Monday, Wednesday and Friday from 8:00 am. to 10:00 pm.
+
 
 ## Tasks :ballot_box_with_check:
-In this project, we analyze data from the ProCharity platform for 2020-2022. The goal of the project is to analyze volunteer user behavior and activity, and report on key metrics such as registration, moderation, and retention dynamics. We use in the research two datasets - volunteer data and statistics data.
+The main goal of the project was to test three hypotheses:
+
+1. User activity depends on the day of the week. Moreover, in Moscow and St. Petersburg it also differs.
+2. On Monday mornings, certain genres prevail in Moscow, while others prevail in St. Petersburg. The same goes for Friday evenings, depending on the city.
+3. People in Moscow and St. Petersburg prefer different genres: pop music is more popular in Moskow, in St. Petersburg - russian rap.
+
 
 ## Scope of activities :bulb:
-Finance, Startups, Tech-company, Charity, Business Metrics, Retention Rate, Conversion, Business Funnels.
+Advertising platforms, Internet services, Internet shops, Digital-agencies / Marketing / PR / SEO, Startups, Tech-company, Business services [b2b]
 
 
-## Used libraries :mortar_board:
-Numpy, Pandas, Seaborn, Matplotlib, Plotly.
+## Used Libraries :mortar_board:
+Pandas, Fuzzywuzzy, Seaborn, Matplotlib
 
 
 ## Tags :label:
-Exploratory Data Analysis, Data Vizualization, Marketing Analyst, Reporting Analyst. 
+Exploratory Data Analysis, Python, Pandas, Numpy, Matplotlib, Seaborn, Research, Data processing, Duplicates, Logical indexing, Grouping, Sorting, Levenshtein distance.
 
 
 ## Project Status :black_square_button:
